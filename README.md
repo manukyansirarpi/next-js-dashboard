@@ -4,7 +4,7 @@ A modern, responsive dashboard built with Next.js, featuring authentication, dat
 
 ## Features
 
-- 🚀 Built with Next.js 14 and TypeScript
+- 🚀 Built with Next.js 15 and TypeScript
 - 🔐 Authentication with NextAuth.js
 - 🎨 Modern UI with Tailwind CSS
 - 📊 Interactive data visualization
@@ -15,7 +15,7 @@ A modern, responsive dashboard built with Next.js, featuring authentication, dat
 
 ## Tech Stack
 
-- **Framework:** Next.js 14
+- **Framework:** Next.js 15
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Authentication:** NextAuth.js
