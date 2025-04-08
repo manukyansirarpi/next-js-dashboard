@@ -95,6 +95,13 @@ nextjs-dashboard/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+## screenshots
+![Screenshot 2025-04-08 at 17 02 51](https://github.com/user-attachments/assets/6219d523-404e-4ac7-8a5f-a2554a2f6bcf)
+
+![Screenshot 2025-04-08 at 17 02 40](https://github.com/user-attachments/assets/1e68e5f1-fca7-4822-aa4c-a3308353165f)
+
+
 ## Acknowledgments
 
 - [Next.js Documentation](https://nextjs.org/docs)
